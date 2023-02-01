@@ -8,6 +8,7 @@ public class Day22workshopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Day22workshopApplication.class, args);
-	}
+
+	}	
 
 }
